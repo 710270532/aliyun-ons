@@ -26,8 +26,8 @@ version1.0.0
 
 ##	About Us
 注：因为阿里云ons为收费服务，本项目适用：  
-1.已经使用阿里云api进行开发后需要迁移自己维护rocketmq的项目。  
-2.想使用阿里云简洁api的项目。  
-3.只实现了阿里云ons java api的基础部分功能，更多功能有待于完善。  
+> 1.已经使用阿里云api进行开发后需要迁移自己维护rocketmq的项目。  
+> 2.想使用阿里云简洁api的项目。  
+> 3.只实现了阿里云ons java api的基础部分功能，更多功能有待于完善。  
 
 version 1.0.0, Any questions, please send mail to <zhanghongwei@le.com>.
