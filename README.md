@@ -1,6 +1,6 @@
 # ons
 
-the same as ons java API  
+the same as ons java API.  
 [java-ons](https://github.com/710270532/ons) is based on [apache rocketmq](https://github.com/apache/incubator-rocketmq) development, the open source api which is to replace [aliyun](https://www.aliyun.com) ons java pai.
 
 ##	Install
