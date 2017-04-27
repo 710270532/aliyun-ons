@@ -13,7 +13,7 @@
 ```
 
 
-##	function
+##	Function
 version1.0.0
 1.普通集群消息发放
 2.广播消息发放
