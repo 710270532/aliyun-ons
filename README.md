@@ -31,4 +31,4 @@ the same as ons java API.
 > 2.想使用阿里云简洁api的项目。  
 > 3.只实现了阿里云ons java api的基础部分功能，更多功能有待于完善。  
 
-version 1.0.0, Any questions, please send mail to <zhanghongwei@le.com>.
+version 1.0.0, Any questions, please send mail to <zhanghongwei09@meituan.com> or <710270532@qq.com>
